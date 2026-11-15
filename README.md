@@ -59,16 +59,15 @@ I enjoy turning ideas into working software, solving challenging problems, and e
 
 ---
 
-### 📊 GitHub Analytics
+---
+
+### 🎏 Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uday5706&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday5706&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/uday5706/uday5706/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=uday5706&theme=transparent&hide_border=true" />
-</p>
+
 
 ---
 
