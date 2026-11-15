@@ -64,12 +64,8 @@ I enjoy turning ideas into working software, solving challenging problems, and e
 ### 🎏 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/Uday5706/Uday5706/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
-  </a>
+  <img src="koi/koi.gif" width="256" alt="My koi" />
 </p>
-
-
 
 ---
 
